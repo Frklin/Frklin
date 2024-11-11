@@ -13,6 +13,9 @@
   </ul>
 </div>
 
+<h3 align="center">Domains of Interest</h3>
+
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Frklin&amp;show_icons=true&amp;theme=dark&amp;locale=en&amp;layout=compact" alt="Frklin"></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
