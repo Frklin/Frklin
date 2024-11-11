@@ -1,16 +1,14 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png">
+</p>
 
-<!--
-**Frklin/Frklin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Hi, I'm Francesco</h2></summary>
+    <h3>AI Reseacher</h3>
+    <p>📍Based in Rome, Italy</p>
+    <h1></h1>
+  </ul>
+</div>
