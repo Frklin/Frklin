@@ -7,7 +7,7 @@
 <div id="user-content-toc">
   <ul align="center">
    <summary><h2 style="display: inline-block; margin-bottom: -100px;">Hi, I'm </h2>
-     <img src="https://github.com/Frklin/frklin.github.io/blob/main/assets/images/Francesco.png" height="22.5">
+     <img src="https://github.com/Frklin/Frklin/assets/Francesco.png" height="22.5">
    </summary>
     <h3>AI Reseacher</h3>
     <p>📍 Based in Rome, Italy</p>
