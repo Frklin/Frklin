@@ -41,10 +41,10 @@
   </ul>
 </div>
 <a href="https://github.com/Frklin/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Frklin&layout=compact&theme=discord_old_blurple&amp" />
+  <img height=180 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Frklin&layout=compact&theme=discord_old_blurple&amp" />
 </a>
 <a href="https://github.com/Frklin/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Frklin&layout=compact&langs_count=8&card_width=320&theme=discord_old_blurple&include_all_commits=true" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Frklin&layout=compact&langs_count=8&card_width=320&theme=discord_old_blurple&include_all_commits=true" />
 </a>
 
 
@@ -64,18 +64,7 @@
 <h1></h1>
 <div id="user-content-toc">
   <ul align="center">
-    <summary>
-  <h1 style="display: inline-block;">Hi, I'm</h1>
-  <svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="gradient" gradientTransform="rotate(90)">
-        <stop offset="0%" stop-color="#FF7F50"/>
-        <stop offset="100%" stop-color="#1E90FF"/>
-      </linearGradient>
-    </defs>
-    <text x="0" y="80" font-size="80" fill="url(#gradient)">Francesco</text>
-  </svg>
-</summary>
+    <summary><h3 align="center">🔗 Connect with me:</h3></summary>
   </ul>
 </div>
 <p align="center">
