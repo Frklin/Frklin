@@ -14,18 +14,33 @@
 </div>
 
 <div align="center">
-  <h3 align="center">Domains of Interest</h3>
   <p> AI | Computer Graphics | Computer Vision | Geometry Computing | Deep Learning</p>
+  <h3></h3>
 </div>
 
 
+<h3 align="left">About me:</h3>
+
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+    <a href="http://linkedin.com/in/francescopalandra" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-64/linkedin-208-916919.png" alt="linkedin" height="40" width="40"></a>
+    <a href="https://www.instagram.com/francesco.palandra/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-64/instagram-216-721958.png" alt="instagram" height="40" width="40"></a>
+    <a href="" target"blank"> <img src="https://skillicons.dev/icons?i=discord" alt="discord" height="40" width="40"></a>
+    <a href="" target"blank"> <img src="https://skillicons.dev/icons?i=instagram" alt="discord" height="40" width="40"></a>
+    <a href="" target"blank"> <img src="https://skillicons.dev/icons?i=linkedin" alt="discord" height="40" width="40"></a>
+    <a href="" target"blank"> <img src="https://skillicons.dev/icons?i=gmail" alt="discord" height="40" width="40"></a>
+</p>
+
+<h3 align="center">Github Stats:</h3>
 <a href="https://github.com/Frklin/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Frklin&theme=material-palenight&include_all_commits=true&hide=prs&show=discussions_started" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Frklin&theme=discord_old_blurple&amp&include_all_commits=true&show_icons=true&hide=prs&show=discussions_started&layout=compact" />
 </a>
 <a href="https://github.com/Frklin/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Frklin&layout=compact&langs_count=8&card_width=320&theme=material-palenight&include_all_commits=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Frklin&layout=compact&langs_count=8&card_width=320&theme=discord_old_blurple&include_all_commits=true" />
 </a>
 
+<!--
 <div>
   <a href="https://github.com/Frklin">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=Frklin&amp;show_icons=true&amp;theme=material-palenight&include_all_commits=true;locale=en&amp;layout=compact" alt="Frklin">
@@ -34,12 +49,8 @@
 </div>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Frklin&amp;show_icons=true&amp;theme=shadow_green&amp;locale=en&amp;layout=compact" alt="Frklin"></p>
+-->
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-    <a href="http://linkedin.com/in/francescopalandra" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-64/linkedin-208-916919.png" alt="linkedin" height="40" width="40"></a>
-    <a href="https://www.instagram.com/francesco.palandra/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-64/instagram-216-721958.png" alt="instagram" height="40" width="40"></a>
-</p>
 
 
 
