@@ -31,7 +31,51 @@
 <li><p>🎾 Fun fact: I'm an advanced-level tennis player with a competitive streak</p></li>
 </ul>
 
-<h3 align="center">🔗 Connect with me:</h3>
+<h1></h1>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h3 align="center">📊 Github Statistics:</h3></summary>
+  </ul>
+</div>
+<a href="https://github.com/Frklin/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Frklin&layout=compact&theme=discord_old_blurple&amp" />
+</a>
+<a href="https://github.com/Frklin/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Frklin&layout=compact&langs_count=8&card_width=320&theme=discord_old_blurple&include_all_commits=true" />
+</a>
+
+
+<h1></h1>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h3 style="display: inline-block">👨🏻‍💻 Some Technologies That I Know</h3></summary>
+  </ul>
+</div>
+<!--tech icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,js,py,ts,r,matlab,swift,solidity,bash,html,css,tailwind,jquery,npm,react,vue,svelte,nodejs,nextjs,threejs,git,github,gitlab,docker,figma,ipfs,latex,vscode,opencv,pytorch,tensorflow,sklearn,ros,cmake,mongodb,mysql,linux,redhat,maven&amp;perline=14">
+  </a>
+</p>
+
+<h1></h1>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary>
+  <h1 style="display: inline-block;">Hi, I'm</h1>
+  <svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="gradient" gradientTransform="rotate(90)">
+        <stop offset="0%" stop-color="#FF7F50"/>
+        <stop offset="100%" stop-color="#1E90FF"/>
+      </linearGradient>
+    </defs>
+    <text x="0" y="80" font-size="80" fill="url(#gradient)">Francesco</text>
+  </svg>
+</summary>
+  </ul>
+</div>
 <p align="center">
     <a href="http://linkedin.com/in/francescopalandra" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-64/linkedin-208-916919.png" alt="linkedin" height="40" width="40"></a>
     <a href="https://www.instagram.com/francesco.palandra/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-64/instagram-216-721958.png" alt="instagram" height="40" width="40"></a>
@@ -44,52 +88,6 @@
     <a href="" target"blank"> <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" height="40" width="40"></a>
     -->
 </p>
-
-<h3 align="center">📊 Github Statistics:</h3>
-<a href="https://github.com/Frklin/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Frklin&layout=compact&theme=discord_old_blurple&amp" />
-</a>
-<a href="https://github.com/Frklin/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Frklin&layout=compact&langs_count=8&card_width=320&theme=discord_old_blurple&include_all_commits=true" />
-</a>
-
-
-<!--
-<a href="https://github.com/Frklin/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Frklin&theme=discord_old_blurple&amp&include_all_commits=true&show_icons=true&hide=prs&show=discussions_started&layout=compact" />
-</a>
-<a href="https://github.com/Frklin/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Frklin&layout=compact&langs_count=8&card_width=320&theme=discord_old_blurple&include_all_commits=true" />
-</a>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Frklin&layout=compact&theme=discord_old_blurple&amp" alt="Frklin"></p>
-
-<div>
-  <a href="https://github.com/Frklin">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=Frklin&amp;show_icons=true&amp;theme=material-palenight&include_all_commits=true;locale=en&amp;layout=compact" alt="Frklin">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Frklin&show_icons=true&bg_color=00000000" alt="Frklin">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Frklin&amp;show_icons=true&amp;theme=discord_old_blurple&amp;locale=en&amp;layout=compact" alt="Frklin">
-</div>
-
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Frklin&amp;show_icons=true&amp;theme=shadow_green&amp;locale=en&amp;layout=compact" alt="Frklin"></p>
--->
-
-
-
-
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h3 style="display: inline-block">👨🏻‍💻 Some Technologies That I Know</h3></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,js,py,ts,r,matlab,swift,solidity,bash,html,css,tailwind,jquery,npm,react,vue,svelte,nodejs,nextjs,threejs,git,github,gitlab,docker,figma,ipfs,latex,vscode,opencv,pytorch,tensorflow,sklearn,ros,cmake,mongodb,mysql,linux,redhat,maven&amp;perline=14">
-  </a>
-</p>
-
 
 
 <!-- Trophies
