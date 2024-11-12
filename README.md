@@ -6,7 +6,18 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block; margin-bottom: -40px;">Hi, I'm Francesco</h2></summary>
+   <summary>
+  <h1 style="display: inline-block;">Hi, I'm</h1>
+  <svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="gradient" gradientTransform="rotate(90)">
+        <stop offset="0%" stop-color="#FF7F50"/>
+        <stop offset="100%" stop-color="#1E90FF"/>
+      </linearGradient>
+    </defs>
+    <h1 x="0" y="80" font-size="80" fill="url(#gradient)">Francesco</h1>
+  </svg>
+</summary>
     <h3>AI Reseacher</h3>
     <p>📍 Based in Rome, Italy</p>
     <h1></h1>
