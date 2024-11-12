@@ -19,8 +19,15 @@
 </div>
 
 
-<h3 align="left">About me:</h3>
-
+<h3 id="-about-me">🤵 About Me:</h3>
+<ul>
+<li>🏦 Recently graduated with an MSc in Computer Science from Sapienza University of Rome</li>
+<li>✨ Former AI researcher at Sapienza, focused on Geometry Computing and Virtual Humans</li>
+<li>🌱 Actively seeking a role that challenges and excites me in the tech industry</li>
+<li>💬 Love discussing AI, startups, and everything about Silicon Valley’s tech scene</li>
+<li>🎹 A passionate pianist, often found playing classical music for hours</li>
+<li>🎾 Fun fact: I'm an advanced-level tennis player with a competitive streak</li>
+</ul>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -39,6 +46,8 @@
 <a href="https://github.com/Frklin/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Frklin&layout=compact&langs_count=8&card_width=320&theme=discord_old_blurple&include_all_commits=true" />
 </a>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Frklin&layout=compact&theme=discord_old_blurple&amp" alt="Frklin"></p>
 
 <!--
 <div>
