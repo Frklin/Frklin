@@ -13,15 +13,35 @@
   </ul>
 </div>
 
-<h3 align="center">Domains of Interest</h3>
+<div align="center">
+  <h3 align="center">Domains of Interest</h3>
+  <p> AI | Computer Graphics | Computer Vision | Geometry Computing | Deep Learning</p>
+</div>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Frklin&amp;show_icons=true&amp;theme=dark&amp;locale=en&amp;layout=compact" alt="Frklin"></p>
+
+<a href="https://github.com/Frklin/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Frklin&theme=material-palenight&include_all_commits=true&hide=prs&show=discussions_started" />
+</a>
+<a href="https://github.com/Frklin/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Frklin&layout=compact&langs_count=8&card_width=320&theme=material-palenight&include_all_commits=true" />
+</a>
+
+<div>
+  <a href="https://github.com/Frklin">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=Frklin&amp;show_icons=true&amp;theme=material-palenight&include_all_commits=true;locale=en&amp;layout=compact" alt="Frklin">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Frklin&show_icons=true&bg_color=00000000" alt="Frklin">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Frklin&amp;show_icons=true&amp;theme=discord_old_blurple&amp;locale=en&amp;layout=compact" alt="Frklin">
+</div>
+
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Frklin&amp;show_icons=true&amp;theme=shadow_green&amp;locale=en&amp;layout=compact" alt="Frklin"></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
     <a href="http://linkedin.com/in/francescopalandra" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-64/linkedin-208-916919.png" alt="linkedin" height="40" width="40"></a>
     <a href="https://www.instagram.com/francesco.palandra/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-64/instagram-216-721958.png" alt="instagram" height="40" width="40"></a>
 </p>
+
+
 
 
 <div id="user-content-toc">
