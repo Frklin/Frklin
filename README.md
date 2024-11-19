@@ -70,13 +70,16 @@
 <p align="center">
     <a href="http://linkedin.com/in/francescopalandra" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-64/linkedin-208-916919.png" alt="linkedin" height="40" width="40"></a>
     <a href="https://www.instagram.com/francesco.palandra/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-64/instagram-216-721958.png" alt="instagram" height="40" width="40"></a>
-    <a href="https://www.github.com" target="_blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-64/github-153-675523.png" alt="github" height="40" width="40"></a>
+    <a href="https://www.github.com/Frklin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="40" width="40"></a>
     <a href="https://discord.gg/7Z8j6v" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-64/discord-3-569463.png" alt="discord" height="40" width="40"></a>
     <!--
+    <a href="https://instagram.com/francesco.palandra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40"></a>
+    <a href="https://www.github.com" target="_blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-64/github-153-675523.png" alt="github" height="40" width="40"></a>
     <a href="" target"blank"> <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="40" width="40"></a>
     <a href="http://linkedin.com/in/francescopalandra" target"blank"> <img src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="40" width="40"></a>
     <a href="" target"blank"> <img src="https://skillicons.dev/icons?i=discord" alt="discord" height="40" width="40"></a>
     <a href="" target"blank"> <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" height="40" width="40"></a>
+  <a href="https://linkedin.com/in/ujjwal-bhatt-b256271a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujjwal-bhatt-b256271a3" height="30" width="40"></a>
     -->
 </p>
 
