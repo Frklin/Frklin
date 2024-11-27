@@ -9,7 +9,7 @@
    <summary><h2 style="display: inline-block; margin-bottom: -100px;">Hi, I'm</h2>
      <img src="https://github.com/Frklin/Frklin/blob/main/assets/Francesco_bold.png" height="19.3">
    </summary>
-    <h3>AI Reseacher</h3>
+    <h3>AI Reseache Engineer</h3>
     <p>📍 Based in Rome, Italy</p>
     <h1></h1>
   </ul>
