@@ -41,7 +41,7 @@
   </ul>
 </div>
 <a href="https://github.com/Frklin/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-streak-stats-henna-chi.vercel.app?user=Frklin&theme=discord-old-blurple&exclude_days=Fri%2CSun%2CSat" />
+  <img height=180 align="center" src="https://github-readme-streak-stats-henna-chi.vercel.app?user=Frklin&theme=discord-old-blurple&exclude_days=Sun%2CSat" />
 </a>
 <a href="https://github.com/Frklin/convoychat">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Frklin&layout=compact&langs_count=8&card_width=320&theme=discord_old_blurple&include_all_commits=true" />
